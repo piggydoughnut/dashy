@@ -46,9 +46,9 @@ sections:
         icon: far fa-hands-helping
 
   - name: Mysql Injection
-    icon: fa-sold fa-lock
+    icon: fas fa-lock
     items:
       - title: Mysql Injection Payloads
         description:
-        url: https://swisskyrepo.github.io/PayloadsAllTheThings/SQL%20Injection/MySQL%20Injection/
-        icon: fa-solid fa-syringe
+        url: https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection#cheatsheets
+        icon: fas fa-syringe
