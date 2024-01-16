@@ -44,7 +44,14 @@ sections:
         description: Get help with Dashy, raise a bug, or get in contact
         url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
         icon: far fa-hands-helping
-
+      - title: Font Awesome Icons
+        url: https://fontawesome.com/icons/
+        icon: fa fa-icons
+        target: newtab
+      - title: Simple Icons
+        url: https://simpleicons.org/
+        icon: fa fa-icons
+        target: newtab
   - name: CyberSec
     icon: fas fa-lock
     items:
