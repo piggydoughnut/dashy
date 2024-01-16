@@ -45,10 +45,43 @@ sections:
         url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
         icon: far fa-hands-helping
 
-  - name: Mysql Injection
+  - name: CyberSec
     icon: fas fa-lock
     items:
       - title: Mysql Injection Payloads
         description:
         url: https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection#cheatsheets
         icon: fas fa-syringe
+
+  - name: Launched
+    icon: far fa-code
+    items:
+      - title: Hack Your Cycle
+        description:
+        url: https://www.hack-your-cycle.com/
+        icon: fas fa-heart
+      - subItems:
+          - title: Analytics
+            url: https://analytics.google.com/analytics/web/#/p349982730/reports/intelligenthome
+            icon: si-googleanalytics
+          - title: Server
+            url: https://vercel.com/my-team-a4d01951/clueapp-calendar-sync
+            icon: si-vercel
+          - title: To dos
+            url: https://app.todoist.com/app/project/2326920939
+            icon: si-todoist
+
+  - name: In Progress
+    icon: far fa-code
+    items:
+      - title: Postcards
+        description:
+        url: https://postcardru.com/
+        icon: fa fa-address-card
+      - subItems:
+          - title: Server
+            url: https://vercel.com/my-team-a4d01951/postcardru
+            icon: si-vercel
+          - title: To dos
+            url: https://app.todoist.com/app/project/2326921266
+            icon: si-todoist
